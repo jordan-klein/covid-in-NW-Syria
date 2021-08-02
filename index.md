@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Combating the Covid-19 Pandemic in NW Syria
+
+
 
 You can use the [editor on GitHub](https://github.com/jordan-klein/syrian-idps-covid/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
